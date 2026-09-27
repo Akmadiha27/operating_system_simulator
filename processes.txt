@@ -1,0 +1,315 @@
+Process Name : Process_Creator
+PID          : 1
+Size         : 0
+_____________________
+Process Name : Process_Creator
+PID          : 1
+UID          : 1
+Size         : 0
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_2
+PID          : 2
+Size         : 24809
+_____________________
+Process Name : Process_2
+PID          : 2
+UID          : 1
+Size         : 24809
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_3
+PID          : 3
+Size         : 24319
+_____________________
+Process Name : Process_3
+PID          : 3
+UID          : 1
+Size         : 24319
+Priority     : 20
+State        : 1
+Process Type : 1
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_4
+PID          : 4
+Size         : 24251
+_____________________
+Process Name : Process_4
+PID          : 4
+UID          : 1
+Size         : 24251
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_5
+PID          : 5
+Size         : 24326
+_____________________
+Process Name : Process_5
+PID          : 5
+UID          : 1
+Size         : 24326
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_6
+PID          : 6
+Size         : 24563
+_____________________
+Process Name : Process_6
+PID          : 6
+UID          : 1
+Size         : 24563
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_7
+PID          : 7
+Size         : 24749
+_____________________
+Process Name : Process_7
+PID          : 7
+UID          : 1
+Size         : 24749
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_8
+PID          : 8
+Size         : 24837
+_____________________
+Process Name : Process_8
+PID          : 8
+UID          : 1
+Size         : 24837
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_9
+PID          : 9
+Size         : 24919
+_____________________
+Process Name : Process_9
+PID          : 9
+UID          : 1
+Size         : 24919
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_10
+PID          : 10
+Size         : 24705
+_____________________
+Process Name : Process_10
+PID          : 10
+UID          : 1
+Size         : 24705
+Priority     : 20
+State        : 1
+Process Type : 1
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_11
+PID          : 11
+Size         : 24172
+_____________________
+Process Name : Process_11
+PID          : 11
+UID          : 1
+Size         : 24172
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_12
+PID          : 12
+Size         : 24590
+_____________________
+Process Name : Process_12
+PID          : 12
+UID          : 1
+Size         : 24590
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_13
+PID          : 13
+Size         : 24715
+_____________________
+Process Name : Process_13
+PID          : 13
+UID          : 1
+Size         : 24715
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_14
+PID          : 14
+Size         : 24241
+_____________________
+Process Name : Process_14
+PID          : 14
+UID          : 1
+Size         : 24241
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_15
+PID          : 15
+Size         : 24329
+_____________________
+Process Name : Process_15
+PID          : 15
+UID          : 1
+Size         : 24329
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_16
+PID          : 16
+Size         : 24981
+_____________________
+Process Name : Process_16
+PID          : 16
+UID          : 1
+Size         : 24981
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_17
+PID          : 17
+Size         : 24253
+_____________________
+Process Name : Process_17
+PID          : 17
+UID          : 1
+Size         : 24253
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_18
+PID          : 18
+Size         : 24305
+_____________________
+Process Name : Process_18
+PID          : 18
+UID          : 1
+Size         : 24305
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_19
+PID          : 19
+Size         : 24266
+_____________________
+Process Name : Process_19
+PID          : 19
+UID          : 1
+Size         : 24266
+Priority     : 20
+State        : 1
+Process Type : 0
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_20
+PID          : 20
+Size         : 24654
+_____________________
+Process Name : Process_20
+PID          : 20
+UID          : 1
+Size         : 24654
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
+Process Name : Process_21
+PID          : 21
+Size         : 24849
+_____________________
+Process Name : Process_21
+PID          : 21
+UID          : 1
+Size         : 24849
+Priority     : 20
+State        : 1
+Process Type : 2
+Memory Type  : 0
+PC           : 0
+Time Slice   : 6000
+_____________________
